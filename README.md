@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justnob
-- 👀 I’m interested in Game Development and Animation
-- 🌱 I’m currently learning Unity and C#
+- 👀 I’m interested in Java Programming
+- 🌱 I’m currently learning Java
 - 📫 How to reach me at sahamarnath79@gmail.com
 
 <!---
