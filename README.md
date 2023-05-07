@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justnob
-- 👀 I’m interested in Java Programming
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Java,Spring Boot, C#, Angular, JavaScript, Html & css
+- 🌱 I’m currently learning C#
 - 📫 How to reach me at sahamarnath79@gmail.com
 
 <!---
