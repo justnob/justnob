@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @justnob
 - 👀 I’m interested in Java,Spring Boot, C#, Angular, JavaScript, Html & css
 - 🌱 I’m currently learning C#
-- 📫 How to reach me at sahamarnath79@gmail.com
+- 📫 You can reach me at sahamarnath79@gmail.com
 
 <!---
 justnob/justnob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
