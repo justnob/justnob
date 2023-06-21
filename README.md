@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justnob
 - 👀 I’m interested in Java,Spring Boot, C#, Angular, JavaScript, Html & css
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning spring boot, angular
 - 📫 You can reach me at sahamarnath79@gmail.com
 
 <!---
